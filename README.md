@@ -14,6 +14,12 @@
 🔸Building interactive dashboards.
 
 🔸Regularly checking data and incorporating stakeholder feedback for ongoing improvements.
+
+🔸Inserted four CSV files: dim_campaigns (campaign details), dim_products (product attributes), dim_stores (store locations), and fact_events (sales events with promotional impact) additionally .
+
+
+
+
 ## Building Dashboard
 ### 1.Finance View:
 #### Developed a financial forecasting model that improved the accuracy of budget predictions. Set benchmarks based on last year's performance and target goals for more effective budgeting.
