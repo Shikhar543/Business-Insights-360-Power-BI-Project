@@ -23,6 +23,9 @@
 ## Building Dashboard
 ### 1.Finance View:
 #### Developed a financial forecasting model that improved the accuracy of budget predictions. Set benchmarks based on last year's performance and target goals for more effective budgeting.
+
+![Finance View](https://github.com/user-attachments/assets/777a689f-9759-401a-bd6f-86f3fb0dca00)
+
 ### 2. Sales view:
 #### Generated a report on overall sales performance for customers and products. Analyzed sales trends and monitored key performance indicators (KPIs).
 ### 3. Marketing View :
