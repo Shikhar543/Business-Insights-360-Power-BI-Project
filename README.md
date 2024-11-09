@@ -28,12 +28,24 @@
 
 ### 2. Sales view:
 #### Generated a report on overall sales performance for customers and products. Analyzed sales trends and monitored key performance indicators (KPIs).
+
+![Sales View](https://github.com/user-attachments/assets/d30d8790-37ff-4655-965f-85076e0b39cd)
+
 ### 3. Marketing View :
 #### Developed a report on market performance by region and product, including unit economics. Analyzed market trends and monitored key performance indicators (KPIs).
+
+![Marketing View](https://github.com/user-attachments/assets/d265faa9-2f3d-4953-ae07-09b437e96712)
+
 ### 4. Supply chain view:
 #### Analyzed trends in forecast accuracy percentage, net error percentage, and absolute error percentage. Evaluated key metrics for customers and products requiring supply management.
+
+![Supply Chain View](https://github.com/user-attachments/assets/949edd5b-7b64-4bcd-abbe-f104972d4586)
+
 ### 5. Executive View :
 #### Created an executive dashboard for real-time performance tracking, displaying revenue by division, customer, product, and channel.
+
+![Executive View](https://github.com/user-attachments/assets/2045c80f-543b-4232-ae8d-9c03aed51fc0)
+
 ## Dashboard Link:
 ### https://app.powerbi.com/groups/me/reports/c8ab424b-ef43-4922-bbd7-225c7a213079/ReportSection0e765c0061580b067c73?experience=power-bi
 ## Tools Used
